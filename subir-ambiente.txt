@@ -1,0 +1,7 @@
+1 - Download do Projeto Ticket V1 - BB
+2 - Descompactar numa pasta no htdocs
+3 - Iniciar Apache + MySQL
+4 - Abrir a lista de arquivos no Sublime ou VS
+5 - Criar o banco de dados no phpmyadmin
+6 - Rodar a aplicação
+7 - Criar um usuário (email e senha com md5)
